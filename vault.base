@@ -8,8 +8,11 @@ views:
       - topic
       - promote_if
       - confirmed_on
+      - related
     sort:
       - property: file.folder
+        direction: DESC
+      - property: related
         direction: ASC
       - property: promote_if
         direction: ASC
