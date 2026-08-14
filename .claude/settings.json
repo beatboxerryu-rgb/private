@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "deny": [
+      "Edit(./10_notes/**)",
+      "Edit(./50_laws/**)",
+      "Edit(./90_archive/**)",
+      "Edit(./.obsidian/**)",
+      "Edit(./.git/**)",
+      "Read(./90_archive/**)"
+    ]
+  }
+}
