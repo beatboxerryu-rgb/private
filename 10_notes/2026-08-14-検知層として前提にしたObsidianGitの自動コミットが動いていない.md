@@ -1,12 +1,14 @@
 ---
-status: draft
+status: verified
 author: claude
 created: 2026-08-14
 confirmed_on: 2026-08-14
 confidence: high
 promote_if: Obsidian Git の自動コミットが動作し、1日あたり複数コミットが記録されたら
 topic: vault-ops
-related: [初回棚卸しで設計側の欠陥が3件判明した, denyが効かなかった原因は起動ディレクトリだった]
+related:
+  - 初回棚卸しで設計側の欠陥が3件判明した
+  - denyが効かなかった原因は起動ディレクトリだった
 ---
 
 # 結論

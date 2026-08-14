@@ -1,12 +1,14 @@
 ---
-status: draft
+status: verified
 author: claude
 created: 2026-08-14
 confirmed_on: 2026-08-14
 confidence: high
 promote_if: 次回の昇格操作が Git 履歴に遷移として記録され、F1 が判別可能になったら
 topic: vault-ops
-related: [初回棚卸しで設計側の欠陥が3件判明した, denyが効かなかった原因は起動ディレクトリだった]
+related:
+  - 初回棚卸しで設計側の欠陥が3件判明した
+  - denyが効かなかった原因は起動ディレクトリだった
 ---
 
 # 結論
