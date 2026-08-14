@@ -1,0 +1,21 @@
+views:
+  - type: table
+    name: 表
+    order:
+      - file.folder
+      - file.name
+      - status
+      - topic
+      - promote_if
+      - confirmed_on
+    sort:
+      - property: file.folder
+        direction: ASC
+      - property: promote_if
+        direction: ASC
+      - property: confirmed_on
+        direction: DESC
+  - type: table
+    name: ビュー
+  - type: cards
+    name: ビュー 2

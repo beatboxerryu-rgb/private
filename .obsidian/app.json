@@ -1,5 +1,6 @@
 {
   "propertiesInDocument": "hidden",
   "newFileLocation": "folder",
-  "newFileFolderPath": "00_inbox"
+  "newFileFolderPath": "00_inbox",
+  "promptDelete": false
 }
